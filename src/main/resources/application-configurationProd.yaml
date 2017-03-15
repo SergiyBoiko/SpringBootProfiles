@@ -1,0 +1,7 @@
+car:
+  engine:
+    capacity: 2.4
+  wheel:
+    tyres:
+      name: Super Swamper Bogger
+      size: 17
